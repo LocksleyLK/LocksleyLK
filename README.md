@@ -1,3 +1,9 @@
+<img
+  src="photos/VACD.jfif"
+  alt="Locksley at the Virtual Azure Community Day"
+  style="float: left; margin-right: 90px;"
+/>
+
 ## 🦝 Hi there! My name is Locksley! 
 
 ### 👩🏼‍💻 I am a coder.
