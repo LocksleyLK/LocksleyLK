@@ -24,6 +24,7 @@ You can find me on my blog at [locksleylk.com](https://www.locksleylk.com/). Her
 
 ## 🎓 I am a learner.
 ### Education
+- Master of Science in Information Management - Dec 2022
 - Bachelor of Science in Informatics
 
 ### Certifications
