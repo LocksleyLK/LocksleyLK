@@ -4,7 +4,7 @@
   style="float: left; margin-right: 90px;"
 />
 
-# 🦝 Hello, there! I'm Locksley! 
+# 🦝 Hello there! I'm Locksley! 
 
 ## 👩🏼‍💻 I am a coder.
 - And a hacker. I directed [Women in Informatic's 9th Annual Hackathon](https://ischool.uw.edu/news/2021/01/success-first-online-hackathon-thrills-winfo).
